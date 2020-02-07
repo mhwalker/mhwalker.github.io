@@ -42,6 +42,8 @@ To give some concrete examples, when I worked at CMS, I was mainly part of the T
 
 In the SUSY group, there was at one point a faculty member from my university in a convenor position. But because she was not my boss personally, she couldn't direct my research projects, and that was only one term. In fact, it was common in the analysis groups for multiple university teams to try to work on the same project without any coordination.
 
+If you're wondering why things are set up that way, remember that these collaborations are made up of people from dozens of countries and hundreds of universities. And historically, faculty have been very autonomous in setting their own direction. So it's probably just not reasonable to expect that they would sign on to a much more structured management system.
+
 ## Comparison and conclusions
 In contrast to the tech industry, and I assume, many businesses, big physics management relies to a much larger extent on "soft" power. Since managers have no direct control over their team members, they have to rely on indirect means to achieve their objectives. Certainly having good relationships is of high importance - many things are decided by committee, including funding priorities and hiring decisions, so it's a good idea to have good relationships with lots of people. You will often need a broad basis of support to accomplish major programs.
 
