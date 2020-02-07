@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Management Organization in Big Physics vs the Tech Industry"
-date:   2020-02-07 12:00:00 -0800
+date:   2020-02-07 8:00:00 -0800
 tags: management physics tech
 ---
 Welcome to my inaugural blog post! I don't plan to limit the focus of the blog to a specific set of topics, but to start out I'll be primarily writing about machine learning and life in the tech industry.
