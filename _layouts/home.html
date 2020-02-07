@@ -6,7 +6,7 @@ layout: default
 
   {{ content }}
   
-  <ul class="post-list">
+  <ul class="post-list" style="list-style-type:none;">
     {% for post in site.posts %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -21,6 +21,7 @@ layout: default
           {% endfor %}
         </span>
         <p>{{ post.description }}</p>
+	<hr>
       </li>
     {% endfor %}
   </ul>
