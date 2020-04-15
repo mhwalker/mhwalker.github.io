@@ -10,7 +10,7 @@ On the other hand, how employees view the managers at the top and what they take
 
 My experience is that front-line members of the organization are judging senior leaders, but I'm not sure senior leaders are aware (or remember from their time as junior members) that they are being judged. Which is to say, I think some of them would do things differently if they thought about their actions through the lens of their junior reports.
 
-What I want to explore is how and when employees are building their opinions and what they're taking away from things they see. There ended up being too much to cover in a single post, so in this one I'm going to talk about one of those stalwarts of leadership communication - the all-hands meeting. In future posts, I'll discuss the other aspects that influence people's opinion of their upper management.
+What I want to explore is how and when employees are building their opinions and what they're taking away from things they see. There ended up being too much to cover in a single post, so in this one I'm just going to talk about one of those stalwarts of leadership communication - the all-hands meeting. In future posts, I'll discuss the other aspects that influence people's opinion of their upper management.
 
 ## Who is going to win the Winter Olympics?
 
