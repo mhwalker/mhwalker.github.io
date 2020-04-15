@@ -4,9 +4,9 @@ title:  "The View of the Top (Part 1)"
 date:   2020-04-14 8:00:00 -0700
 tags: management tech
 ---
-The view _from_ the top is the topic of many a [book](https://www.amazon.com/dp/B00JT8K39C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), [speaker series](https://www.gsb.stanford.edu/experience/learning/guest-speakers/view-top), [magazine feature](https://www.forbes.com/views-from-the-top/#4a83328c4b81), [consulting](report), blog post, tweet, and virtually every other form of media.
+The view _from_ the top is the topic of many a [book](https://www.amazon.com/dp/B00JT8K39C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), [speaker series](https://www.gsb.stanford.edu/experience/learning/guest-speakers/view-top), [magazine feature](https://www.forbes.com/views-from-the-top/#4a83328c4b81), [consulting report](https://home.kpmg/xx/en/home/insights/2015/10/view-from-top.html), blog post, tweet, and virtually every other form of media.
 
-On the other hand, how employees view the managers that at the top and what they take away from their interactions with them have not been discussed in much detail. It should be no surprise that, all things being equal, people prefer to work under, say, a VP, whose judgment they trust.
+On the other hand, how employees view the managers at the top and what they take away from their interactions with them have not been discussed in much detail. It should be no surprise that, all things being equal, people prefer to work under, say, a VP, whose judgment they trust.
 
 My experience is that front-line members of the organization are judging those senior leaders, but I'm not sure those senior leaders are aware (or remember from their time as junior members) that they are being judged. Which is to say, I think some of them would do things differently if they thought about their actions through the lens of their junior reports.
 
@@ -18,7 +18,7 @@ I learned before the PyeongChang Winter Olympics that one of the forms of fantas
 
 Since the Winter Olympics is every four years, and a lot of the sports are not very well publicized in the off years, a common strategy is to look at how a given country did four years ago and make your draft ranking according to that. That strategy might not be the best you can do, as many of the competitors will be different from four years ago, but the advantage is that the information is readily available.
 
-When trying to understand the quality of their senior leaders, employees face a similar challenge. They rarely, if ever, have the opportunity to meet the senior leaders in a small group where they can have personal interactions on which to base their opinion. That leaves opportunities which might be more frequent, but less valuable, including the well known all-hands meeting.
+When trying to understand the quality of their senior leaders, employees face a similar challenge. They rarely, if ever, have the opportunity to meet the senior leaders in a small group where they can have personal interactions on which to base their opinions. That leaves opportunities which might be more frequent, but less valuable, including the well known all-hands meeting.
 
 ## The All-Hands Conundrum
 
