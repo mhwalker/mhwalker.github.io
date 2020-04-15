@@ -22,7 +22,7 @@ When trying to understand the quality of their senior leaders, employees face a 
 
 ## The All-Hands Conundrum
 
-For some people, planning an all-hands meeting probably seems like a "you're damned if you do, damned if you don't" scenario. If you don't have all-hands meetings ever, people will wonder why you aren't willing to show your face to the masses. But on the other hand, a bad all-hands will have people wondering why you wasted everyone's time. So far, the only regular all-hands that I go to that is usually good, either in tech or the equivalent in academia, is the LinkedIn company all-hands, which happens every two weeks. But to be fair to everyone else, it's also the only all-hands with its own budget.
+For some people, holding an all-hands meeting probably seems like a "you're damned if you do, damned if you don't" scenario. If you don't have all-hands meetings ever, people will wonder why you aren't willing to show your face to the masses. But on the other hand, a bad all-hands will have people wondering why you wasted everyone's time. So far, the only regular all-hands that I go to that is usually good, either in tech or the equivalent in academia, is the LinkedIn company all-hands, which happens every two weeks. But to be fair to everyone else, it's also the only all-hands with its own budget.
 
 The all-hands meeting represents an important chance for employees to get a look at a senior leader's thought process and also to get answers to questions they think are important.
 
@@ -40,11 +40,11 @@ It's pretty common for all-hands meetings to include a section rolling out a new
 - Is this strategy the best way to tackle the important problem?
 - Are there other problems we should be tackling first?
 
-*The employees are sharp, they are experts in the problems that the company is solving, and they are going to see the strengths and weaknesses of any arguments that are being made.*
+*Employees are sharp, they are experts in the problems that the company is solving, and they are going to see the strengths and weaknesses of any arguments that are being made.*
 
-We see things going wrong in a lot of ways. The most common pattern is that the thing being presented is [it's just a goal](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies). Wanting to improve the product experience is a goal. Wanting to increase some metric by X% is a goal.
+We see things going wrong in a lot of ways. The most common pattern is that the thing being presented [is just a goal](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies). Wanting to improve the product experience is a goal. Wanting to increase some metric by X% is a goal.
 
-If your goal is concrete, like increase the metric by X%, is the goal reasonable? One of the major strategic goals we learned about a couple of years ago at LinkedIn was to increase daily active users (DAUs) by a large amount. The strategy to achieve this goal was to increase another metric, which was shown to have a causal relation with DAUs. The justification for following this strategy was simply extrapolating that result from the low values seen in the causal study to the large values that were desired. So a lot of people were worried that this plan may not play out very well, and those worries have largely been justified.
+If your goal is concrete, like increase the metric by X%, is the goal reasonable? One of the major strategic goals we learned about a couple of years ago at LinkedIn was to increase daily active users (DAUs) by a large amount. The strategy to achieve this goal was to increase another metric, which had been shown to have a causal relation with DAUs. The justification for following this strategy was simply extrapolating that result from the low values seen in the causal study to the large values that were desired. So a lot of people were worried that this plan may not play out very well, and those worries have largely been justified.
 
 ## Question and Answer
 
@@ -54,7 +54,7 @@ Allowing audience members to vote means that questions relevant or interesting t
 
 When questions are asked first-come, first-served, there can be a lot more variance in the usefulness of the questions, as the askers are only representing their own interests. Also, having to ask your question in person selects for certain personality types, limiting access for less vocal team members.
 
-Answering questions, of course, is a key component to any good Q&A session and major window that employees have in seeing how management think, both in general and about specific issues.
+Answering questions, of course, is a key component to any good Q&A session and a major window that employees have in seeing how management thinks, both in general and about specific issues.
 
 Generally, people like concise, no-bullshit answers. Getting through lots of questions with clear answers is definitely preferable to only getting through a few questions, but adding lots of explanation. Explanations only add value if they contain new information.
 
