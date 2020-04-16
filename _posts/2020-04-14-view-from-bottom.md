@@ -44,7 +44,7 @@ It's pretty common for all-hands meetings to include a section rolling out a new
 
 We see things going wrong in a lot of ways. The most common pattern is that the thing being presented [is just a goal](https://hbr.org/2017/11/many-strategies-fail-because-theyre-not-actually-strategies). Wanting to improve the product experience is a goal. Wanting to increase some metric by X% is a goal.
 
-If your goal is concrete, like increase the metric by X%, is the goal reasonable? One of the major strategic goals we learned about a couple of years ago at LinkedIn was to increase daily active users (DAUs) by a large amount. The strategy to achieve this goal was to increase another metric, which had been shown to have a causal relation with DAUs. The justification for following this strategy was simply extrapolating that result from the low values seen in the causal study to the large values that were desired. So a lot of people were worried that this plan may not play out very well, and those worries have largely been justified.
+If your goal is concrete, like increase the metric by X%, is the goal reasonable? One of the major strategic goals we learned about a couple of years ago at LinkedIn was to increase daily active users (DAUs) by a large amount. The strategy to achieve this goal was to increase another metric, which had been shown to have a causal relation with DAUs. The justification for following this strategy was simply extrapolating that result from the low values seen in the causal study to the large values that were desired. This simplistic analysis was something that a lot of people questioned.
 
 ## Question and Answer
 
@@ -60,9 +60,9 @@ Generally, people like concise, no-bullshit answers. Getting through lots of que
 
 Unfortunately, there are plenty of ways for Q&A sessions to go wrong beyond meandering, time-wasting answers. One that I've seen a few times is disparaging the question. Of course, not all questions are going to be great, whether they're asked in person or anonymously, but it's never a good idea to imply the question isn't good. After all, at least one person thought it was important enough to ask.
 
-I remember one all-hands meeting where a question was submitted anonymously asking whether compensation in a specific team was too low. It was the most highly upvoted question, so it got asked first. Clearly, people cared about getting an answer. The VP running the meeting started his answer by saying the question wasn't very good and that this wasn't the appropriate venue for the question, and somewhat facetiously telling the team manager to take care of his team, before giving an answer along the lines of "we think we're competitive." The same question came up the very next all-hands, and the answer was pretty much the same.
+It's common for questions about compensation to come up during these meetings, not always to the delight of the executives running the meeting. Those types of questions can sometimes be specific to certain teams or personal situations.
 
-As someone who's not a member of that team, I'm not that interested in whether their compensation, specifically, is competitive, but I am very interested in how the management understands the compensation landscape and their attitude towards maintaining competitive compensation for current employees. So I think the question is pretty relevant to a lot of people. Dismissing the concerns of the employees and following up with a pretty much non-answer doesn't reflect very well on the executive giving the answers here.
+Even if the specific concerns are not relevant to my situation, I am very interested in how the management understands the compensation landscape and their attitude towards maintaining competitive compensation for current employees. So I think the question is pretty relevant to a lot of people. If the concerns are dismissed or given vague responses, it doesn't reflect very well on the leaders.
 
 ## Conclusions
 The all-hands meeting is a common communication device used by executives to get their messages out to their teams, but as an opportunity to shape their employees' opinion of them, it's high-risk, low-reward.
