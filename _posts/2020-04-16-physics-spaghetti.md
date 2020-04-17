@@ -4,11 +4,11 @@ title:  "How I Learned to Love Spaghetti Code (or Why Physicists Fear No System)
 date:   2020-04-16 8:00:00 -0800
 tags: physics tech
 ---
-A few days ago, a colleague of mine, Peter Chng, wrote a blog about [The Bus Factor](https://peterchng.com/blog/2020/04/12/the-bus-factor/). Within large physics experiments, it's well known that there are probably hundreds of operational services with bus factors of 1 or 2 and likewise for almost every single paper published by them. But large physics experiments also simultaneously have the problem of large fractions of the workforce leaving regularly, which means the situation where nobody understands a piece of code is very common. In this post, I would like to discuss how this situation came to be and why physicists have a special strength as a result: willingness and confidence to look anywhere to understand a problem.
+A few days ago, a colleague of mine, Peter Chng, wrote a blog about [The Bus Factor](https://peterchng.com/blog/2020/04/12/the-bus-factor/). Within large physics experiments, it's well known that probably hundreds of operational services have bus factors of 1 or 2 and it's the same for almost every single paper published by them. But large physics experiments also simultaneously have the problem of large fractions of the workforce leaving regularly, which means the situation where nobody understands a piece of code is very common. In this post, I would like to discuss how this situation came to be and why physicists have a special strength as a result: willingness and confidence to look anywhere to understand a problem.
 
 ## Why So Many Low Bus Factors
 
-The anti-pattern to virtually every best practice that Peter recommended for avoiding low bus factors are present in large experiments:
+The anti-patterns to virtually every best practice that Peter recommended for avoiding low bus factors are present in large experiments:
 * Sharing knowledge is uncommon because operational knowledge is generally not valued.
 * Many code bases for both operations and analysis are in private or undocumented repositories (if in version control at all).
 * Virtually every expert is a "phone-holder" with their number programmed into on-call phones, meaning it is very easy to hand problems over to experts.
